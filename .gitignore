@@ -35,3 +35,64 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+# =========================
+# Python cache / bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.env.bak/
+.env.local/
+
+# =========================
+# IDE / Editor settings
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Jupyter (if used later)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Build / distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Project-specific ignores
+# =========================
+
+# Processed / generated data (can be recreated)
+data/processed/
+
+# Optional: ignore raw data if sensitive
+# data/raw/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak
