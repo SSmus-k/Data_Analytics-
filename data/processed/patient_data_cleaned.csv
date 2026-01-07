@@ -1,0 +1,71 @@
+patient_id,age,gender,department,diagnosis,admission_date,discharge_date,status,length_of_stay
+1,65,male,cardiology,heart disease,2024-01-02,2024-01-10,recovered,8.0
+2,45,female,neurology,stroke,2024-01-05,,admitted,
+3,30,male,orthopedics,fracture,2024-01-07,2024-01-09,recovered,2.0
+4,70,female,icu,pneumonia,2024-01-08,,critical,
+5,55,male,cardiology,hypertension,2024-01-10,,admitted,
+6,40,female,neurology,migraine,2024-01-11,2024-01-13,recovered,2.0
+7,29,male,orthopedics,dislocation,2024-01-12,,admitted,
+8,82,female,icu,covid-19,2024-01-12,,critical,
+9,60,male,cardiology,arrhythmia,2024-01-14,2024-01-20,recovered,6.0
+10,50,female,general,surgery recovery,2024-01-15,,admitted,
+11,34,male,orthopedics,fracture,2024-01-15,2024-01-17,recovered,2.0
+12,47,female,neurology,epilepsy,2024-01-16,,admitted,
+13,69,male,icu,sepsis,2024-01-17,,critical,
+14,72,female,cardiology,heart failure,2024-01-18,,critical,
+15,38,male,general,infection,2024-01-18,2024-01-22,recovered,4.0
+16,55,female,orthopedics,arthritis,2024-01-19,,admitted,
+17,63,male,icu,pneumonia,2024-01-19,,critical,
+18,41,female,neurology,stroke,2024-01-20,,admitted,
+19,28,male,general,flu,2024-01-20,2024-01-21,recovered,1.0
+20,77,female,cardiology,hypertension,2024-01-21,,admitted,
+21,52,male,orthopedics,back pain,2024-01-21,,admitted,
+22,46,female,neurology,migraine,2024-01-22,,admitted,
+23,67,male,icu,respiratory failure,2024-01-22,,critical,
+24,59,female,cardiology,angina,2024-01-23,2024-01-29,recovered,6.0
+25,36,male,general,gastroenteritis,2024-01-23,,admitted,
+26,48,female,orthopedics,joint pain,2024-01-24,,admitted,
+27,71,male,icu,sepsis,2024-01-24,,critical,
+28,64,female,cardiology,heart disease,2024-01-25,,admitted,
+29,33,male,neurology,concussion,2024-01-25,2024-01-27,recovered,2.0
+30,58,female,general,diabetes,2024-01-26,,admitted,
+31,44,male,orthopedics,fracture,2024-01-26,,admitted,
+32,61,female,cardiology,arrhythmia,2024-01-27,,critical,
+33,39,male,neurology,epilepsy,2024-01-27,,admitted,
+34,75,female,icu,pneumonia,2024-01-28,,critical,
+35,27,male,general,flu,2024-01-28,2024-01-30,recovered,2.0
+36,54,female,orthopedics,arthritis,2024-01-29,,admitted,
+37,66,male,cardiology,heart failure,2024-01-29,,admitted,
+38,49,female,neurology,stroke,2024-01-30,,admitted,
+39,81,male,icu,covid-19,2024-01-30,,critical,
+40,42,female,general,infection,2024-01-31,2024-02-02,recovered,2.0
+41,60,male,cardiology,hypertension,2024-02-01,,admitted,
+42,53,female,orthopedics,dislocation,2024-02-01,,admitted,
+43,70,male,icu,respiratory failure,2024-02-02,,critical,
+44,34,female,neurology,migraine,2024-02-02,,admitted,
+45,62,male,cardiology,heart disease,2024-02-03,,admitted,
+46,58,female,general,diabetes,2024-02-03,,admitted,
+47,76,male,icu,sepsis,2024-02-04,,critical,
+48,29,female,orthopedics,fracture,2024-02-04,2024-02-06,recovered,2.0
+49,68,male,cardiology,angina,2024-02-05,,admitted,
+50,47,female,neurology,epilepsy,2024-02-05,,admitted,
+51,35,male,general,flu,2024-02-06,2024-02-07,recovered,1.0
+52,74,female,icu,pneumonia,2024-02-06,,critical,
+53,56,male,cardiology,heart failure,2024-02-07,,admitted,
+54,41,female,orthopedics,joint pain,2024-02-07,,admitted,
+55,63,male,icu,sepsis,2024-02-08,,critical,
+56,38,female,neurology,stroke,2024-02-08,,admitted,
+57,59,male,general,infection,2024-02-09,,admitted,
+58,71,female,cardiology,arrhythmia,2024-02-09,,critical,
+59,46,male,orthopedics,back pain,2024-02-10,,admitted,
+60,80,female,icu,covid-19,2024-02-10,,critical,
+61,65,male,cardiology,heart disease,2024-02-11,,admitted,
+62,45,female,neurology,stroke,2024-02-11,,admitted,
+63,30,male,orthopedics,fracture,2024-02-12,2024-02-14,recovered,2.0
+64,70,female,icu,pneumonia,2024-02-12,,critical,
+65,55,male,cardiology,hypertension,2024-02-13,,admitted,
+66,40,female,neurology,migraine,2024-02-13,,admitted,
+67,29,male,orthopedics,dislocation,2024-02-14,,admitted,
+68,82,female,icu,covid-19,2024-02-14,,critical,
+69,60,male,cardiology,arrhythmia,2024-02-15,2024-02-20,recovered,5.0
+70,50,female,general,surgery recovery,2024-02-15,,admitted,

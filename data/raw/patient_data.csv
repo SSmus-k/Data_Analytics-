@@ -1,0 +1,71 @@
+patient_id,age,gender,department,diagnosis,admission_date,discharge_date,status
+1,65,Male,Cardiology,Heart Disease,2024-01-02,2024-01-10,Recovered
+2,45,Female,Neurology,Stroke,2024-01-05,,Admitted
+3,30,Male,Orthopedics,Fracture,2024-01-07,2024-01-09,Recovered
+4,70,Female,ICU,Pneumonia,2024-01-08,,Critical
+5,55,Male,Cardiology,Hypertension,2024-01-10,,Admitted
+6,40,Female,neurology,Migraine,2024-01-11,2024-01-13,recovered
+7,29,Male,Orthopedics,Dislocation,2024-01-12,,admitted
+8,82,Female,ICU,COVID-19,2024-01-12,,CRITICAL
+9,60,Male,Cardiology,Arrhythmia,2024-01-14,2024-01-20,Recovered
+10,50,Female,General,Surgery Recovery,2024-01-15,,Admitted
+11,34,Male,Orthopaedics,Fracture,2024-01-15,2024-01-17,recovered
+12,47,Female,Neurology,Epilepsy,2024-01-16,,Admitted
+13,69,Male,ICU,Sepsis,2024-01-17,,Critical
+14,72,Female,Cardiology,Heart Failure,2024-01-18,,critical
+15,38,Male,General,Infection,2024-01-18,2024-01-22,Recovered
+16,55,Female,Orthopedics,Arthritis,2024-01-19,,Admitted
+17,63,Male,ICU,Pneumonia,2024-01-19,,CRITICAL
+18,41,Female,Neurology,Stroke,2024-01-20,,admitted
+19,28,Male,General,Flu,2024-01-20,2024-01-21,recovered
+20,77,Female,Cardiology,Hypertension,2024-01-21,,Admitted
+21,52,Male,Orthopedics,Back Pain,2024-01-21,,Admitted
+22,46,Female,Neurology,Migraine,2024-01-22,,Admitted
+23,67,Male,ICU,Respiratory Failure,2024-01-22,,Critical
+24,59,Female,Cardiology,Angina,2024-01-23,2024-01-29,Recovered
+25,36,Male,General,Gastroenteritis,2024-01-23,,Admitted
+26,48,Female,Orthopaedics,Joint Pain,2024-01-24,,admitted
+27,71,Male,ICU,Sepsis,2024-01-24,,CRITICAL
+28,64,Female,Cardiology,Heart Disease,2024-01-25,,Admitted
+29,33,Male,Neurology,Concussion,2024-01-25,2024-01-27,Recovered
+30,58,Female,General,Diabetes,2024-01-26,,Admitted
+31,44,Male,Orthopedics,Fracture,2024-01-26,,Admitted
+32,61,Female,Cardiology,Arrhythmia,2024-01-27,,critical
+33,39,Male,Neurology,Epilepsy,2024-01-27,,Admitted
+34,75,Female,ICU,Pneumonia,2024-01-28,,CRITICAL
+35,27,Male,General,Flu,2024-01-28,2024-01-30,recovered
+36,54,Female,Orthopaedics,Arthritis,2024-01-29,,Admitted
+37,66,Male,Cardiology,Heart Failure,2024-01-29,,Admitted
+38,49,Female,Neurology,Stroke,2024-01-30,,Admitted
+39,81,Male,ICU,COVID-19,2024-01-30,,Critical
+40,42,Female,General,Infection,2024-01-31,2024-02-02,Recovered
+41,60,Male,Cardiology,Hypertension,2024-02-01,,Admitted
+42,53,Female,Orthopedics,Dislocation,2024-02-01,,Admitted
+43,70,Male,ICU,Respiratory Failure,2024-02-02,,CRITICAL
+44,34,Female,Neurology,Migraine,2024-02-02,,admitted
+45,62,Male,Cardiology,Heart Disease,2024-02-03,,Admitted
+46,58,Female,General,Diabetes,2024-02-03,,Admitted
+47,76,Male,ICU,Sepsis,2024-02-04,,Critical
+48,29,Female,Orthopedics,Fracture,2024-02-04,2024-02-06,Recovered
+49,68,Male,Cardiology,Angina,2024-02-05,,Admitted
+50,47,Female,Neurology,Epilepsy,2024-02-05,,Admitted
+51,35,Male,General,Flu,2024-02-06,2024-02-07,recovered
+52,74,Female,ICU,Pneumonia,2024-02-06,,CRITICAL
+53,56,Male,Cardiology,Heart Failure,2024-02-07,,Admitted
+54,41,Female,Orthopaedics,Joint Pain,2024-02-07,,admitted
+55,63,Male,ICU,Sepsis,2024-02-08,,Critical
+56,38,Female,Neurology,Stroke,2024-02-08,,Admitted
+57,59,Male,General,Infection,2024-02-09,,Admitted
+58,71,Female,Cardiology,Arrhythmia,2024-02-09,,critical
+59,46,Male,Orthopedics,Back Pain,2024-02-10,,Admitted
+60,80,Female,ICU,COVID-19,2024-02-10,,CRITICAL
+61,65,Male,Cardiology,Heart Disease,2024-02-11,,Admitted
+62,45,Female,Neurology,Stroke,2024-02-11,,Admitted
+63,30,Male,Orthopedics,Fracture,2024-02-12,2024-02-14,Recovered
+64,70,Female,ICU,Pneumonia,2024-02-12,,Critical
+65,55,Male,Cardiology,Hypertension,2024-02-13,,Admitted
+66,40,Female,Neurology,Migraine,2024-02-13,,admitted
+67,29,Male,Orthopedics,Dislocation,2024-02-14,,Admitted
+68,82,Female,ICU,COVID-19,2024-02-14,,CRITICAL
+69,60,Male,Cardiology,Arrhythmia,2024-02-15,2024-02-20,Recovered
+70,50,Female,General,Surgery Recovery,2024-02-15,,Admitted
